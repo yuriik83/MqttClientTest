@@ -1,0 +1,15 @@
+D:\mqtt\MqttClientCsharp-master\MqttClientCsharp\MqttClientCsharp\bin\Debug\MqttClientCsharp.exe.config
+D:\mqtt\MqttClientCsharp-master\MqttClientCsharp\MqttClientCsharp\bin\Debug\MqttClientCsharp.exe
+D:\mqtt\MqttClientCsharp-master\MqttClientCsharp\MqttClientCsharp\bin\Debug\MqttClientCsharp.pdb
+D:\mqtt\MqttClientCsharp-master\MqttClientCsharp\MqttClientCsharp\bin\Debug\M2Mqtt.dll
+D:\mqtt\MqttClientCsharp-master\MqttClientCsharp\MqttClientCsharp\obj\x86\Debug\MqttClientCsharp.csprojResolveAssemblyReference.cache
+D:\mqtt\MqttClientCsharp-master\MqttClientCsharp\MqttClientCsharp\obj\x86\Debug\MainWindow.baml
+D:\mqtt\MqttClientCsharp-master\MqttClientCsharp\MqttClientCsharp\obj\x86\Debug\MainWindow.g.cs
+D:\mqtt\MqttClientCsharp-master\MqttClientCsharp\MqttClientCsharp\obj\x86\Debug\App.g.cs
+D:\mqtt\MqttClientCsharp-master\MqttClientCsharp\MqttClientCsharp\obj\x86\Debug\MqttClientCsharp_MarkupCompile.cache
+D:\mqtt\MqttClientCsharp-master\MqttClientCsharp\MqttClientCsharp\obj\x86\Debug\MqttClientCsharp.g.resources
+D:\mqtt\MqttClientCsharp-master\MqttClientCsharp\MqttClientCsharp\obj\x86\Debug\MqttClientCsharp.Properties.Resources.resources
+D:\mqtt\MqttClientCsharp-master\MqttClientCsharp\MqttClientCsharp\obj\x86\Debug\MqttClientCsharp.csproj.GenerateResource.Cache
+D:\mqtt\MqttClientCsharp-master\MqttClientCsharp\MqttClientCsharp\obj\x86\Debug\MqttClientCsharp.exe
+D:\mqtt\MqttClientCsharp-master\MqttClientCsharp\MqttClientCsharp\obj\x86\Debug\MqttClientCsharp.pdb
+D:\mqtt\MqttClientCsharp-master\MqttClientCsharp\MqttClientCsharp\bin\Debug\MqttClientTest.exe.config
